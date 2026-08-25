@@ -94,6 +94,7 @@ function initMarquee() {
     "Infonavit",
     "Fonacot",
     "REPSE",
+    "Desarrollo Organizacional",
     "Asesoria empresarial",
     "Cumplimiento patronal",
     "Gestion documental"
